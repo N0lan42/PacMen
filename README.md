@@ -1,2 +1,2 @@
 # PacMen
-<img src=pacmen.png><img>
+<img src= "pacman1.png" width='300'/>
